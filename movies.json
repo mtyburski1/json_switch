@@ -1,0 +1,119 @@
+{
+  "movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "director": {
+        "firstName": "Frank",
+        "lastName": "Darabont"
+      },
+      "genre": "DRAMA",
+      "date": "1994",
+      "actors": [
+        {
+          "firstName": "Tim",
+          "lastName": "Robbins"
+        },
+        {
+          "firstName": "Morgan",
+          "lastName": "Freeman"
+        },
+        {
+          "firstName": "Bob",
+          "lastName": "Gunton"
+        }
+      ]
+    },
+    {
+      "title": "Seven",
+      "director": {
+        "firstName": "David",
+        "lastName": "Fincher"
+      },
+      "genre": "THRILLER",
+      "date": "1995",
+      "actors": [
+        {
+          "firstName": "Morgan",
+          "lastName": "Freeman"
+        },
+        {
+          "firstName": "Brad",
+          "lastName": "Pitt"
+        },
+        {
+          "firstName": "Gwyneth",
+          "lastName": "Paltrow"
+        }
+      ]
+    },
+    {
+      "title": "The Green Mile",
+      "director": {
+        "firstName": "Olivier",
+        "lastName": "Nakache"
+      },
+      "genre": "DRAMA",
+      "date": "1999",
+      "actors": [
+        {
+          "firstName": "Tom",
+          "lastName": "Hanks"
+        },
+        {
+          "firstName": "David",
+          "lastName": "Morse"
+        },
+        {
+          "firstName": "Bonnie",
+          "lastName": "Hunt"
+        }
+      ]
+    },
+    {
+      "title": "12 Angry Men",
+      "director": {
+        "firstName": "David",
+        "lastName": "Fincher"
+      },
+      "genre": "COURT DRAMA",
+      "date": "1957",
+      "actors": [
+        {
+          "firstName": "Martin",
+          "lastName": "Balsam"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Fiedler"
+        },
+        {
+          "firstName": "Lee J.",
+          "lastName": "Cobb"
+        }
+      ]
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "director": {
+        "firstName": "Peter",
+        "lastName": "Jackson"
+      },
+      "genre": "FANTASY",
+      "date": "2003",
+      "actors": [
+        {
+          "firstName": "Elijah",
+          "lastName": "Wood"
+        },
+        {
+          "firstName": "Sean",
+          "lastName": "Astin"
+        },
+        {
+          "firstName": "Dominic",
+          "lastName": "Monaghan"
+        }
+      ]
+    }
+  ]
+}
